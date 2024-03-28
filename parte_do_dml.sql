@@ -3,7 +3,7 @@ INSERT INTO Cliente (nome, endereco, email, celular, data_nascimento)
 VALUES 
     ('Maria Souza', 'Rua B, 456', 'maria@email.com', '888888888', '1985-05-15'),
     ('Carlos Oliveira', 'Av. C, 789', 'carlos@email.com', '777777777', '1992-10-20'),
-    ('Ana Silva', 'Rua D, 321', 'ana@email.com', '666666666', '1988-03-10'),
+    ('Ana Silva', 'Rua D, 321', 'ana@email.com', '123456789', '1988-03-10'),
     ('Pedro Santos', 'Rua E, 654', 'pedro@email.com', '555555555', '1995-07-25'),
     ('Fernanda Lima', 'Av. F, 987', 'fernanda@email.com', '444444444', '1983-11-30'),
     ('Rafaela Costa', 'Rua G, 789', 'rafaela@email.com', '333333333', '1990-09-12'),
